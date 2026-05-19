@@ -2,8 +2,6 @@
 
 > *"I've tried almost everything, and today I'm paying the bills thanks to the OSI and TCP/IP models."*
 
-- **Protocols & Technologies:** OSPF, MPLS, AAA, PBR, ACL, NAT, PAT, CEF, Stack, QoS, UDLD, IPv4/IPv6 (Dual Stack), STP, RSTP, MSTP, DTP, CDP, VTP, VRF Lite, HSRP, VRRP, VLAN, NTP, SNMP.
-
 ---
 
 ## My Toolkit
